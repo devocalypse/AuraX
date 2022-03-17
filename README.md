@@ -18,5 +18,5 @@ Starts the service if not running
 Stops the service if not running
 
 ## Usage
-Win+L to Lock PC => Lights off<br />
-Log on again => Lights combe back to previous state.
+Win+L to lock PC => Lights turn off<br />
+Log on again => Lights come back as they were
