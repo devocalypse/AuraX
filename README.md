@@ -16,3 +16,7 @@ Starts the service if not running
 
 `AuraX --stop`
 Stops the service if not running
+
+## Usage
+Win+L to Lock PC => Lights off<br />
+Log on again => Lights combe back to previous state.
