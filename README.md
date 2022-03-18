@@ -22,5 +22,5 @@ Win+L to lock PC => Lights turn off<br />
 Log on again => Lights come back as they were
 
 ## Known bugs
-Remote desktop sessions wake the lights as if a logon event occured
+Remote desktop sessions wake the lights as if a logon event occured<br />
 Disconnecting a remote session does not trigger lights off
